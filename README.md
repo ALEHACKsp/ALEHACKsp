@@ -1,3 +1,6 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World!) <br/>
+
+
 ### Hello ! I'm ALEHACKsp , Security researcher and reverse engineer; mostly interested in Windows kernel development and low-level programming.
 
  <div>
