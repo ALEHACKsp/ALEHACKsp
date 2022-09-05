@@ -1,5 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World!) <br/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4211FF&background=24831200&width=435&lines=HELLO+WORLD+-+INCODE;Reverse+%26%26+Kernel+Developer)](https://git.io/typing-svg)
+
 
 ### Hello ! I'm ALEHACKsp , Security researcher and reverse engineer; mostly interested in Windows kernel development and low-level programming.
 
